@@ -5,3 +5,8 @@ line5
 line6
 lineadd1
 lineadd2
+<<<<<<< HEAD
+=======
+lineadd3
+lineadd4
+>>>>>>> branch1
